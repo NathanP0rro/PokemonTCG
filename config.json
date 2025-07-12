@@ -1,0 +1,1888 @@
+{
+  "pokemons": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "isbase": true
+    },
+    {
+      "name": "Ivysaur",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Venusaur",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "isbase": true
+    },
+    {
+      "name": "Charmeleon",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Wartortle",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Blastoise",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Caterpie",
+      "type": "Bug",
+      "isbase": true
+    },
+    {
+      "name": "Metapod",
+      "type": "Bug",
+      "isbase": false
+    },
+    {
+      "name": "Butterfree",
+      "type": "Bug",
+      "isbase": false
+    },
+    {
+      "name": "Weedle",
+      "type": "Bug",
+      "isbase": true
+    },
+    {
+      "name": "Kakuna",
+      "type": "Bug",
+      "isbase": false
+    },
+    {
+      "name": "Beedrill",
+      "type": "Bug",
+      "isbase": false
+    },
+    {
+      "name": "Pidgey",
+      "type": "Flying",
+      "isbase": true
+    },
+    {
+      "name": "Pidgeotto",
+      "type": "Flying",
+      "isbase": false
+    },
+    {
+      "name": "Pidgeot",
+      "type": "Flying",
+      "isbase": false
+    },
+    {
+      "name": "Rattata",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Raticate",
+      "type": "Normal",
+      "isbase": false
+    },
+    {
+      "name": "Spearow",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Fearow",
+      "type": "Normal",
+      "isbase": false
+    },
+    {
+      "name": "Ekans",
+      "type": "Poison",
+      "isbase": true
+    },
+    {
+      "name": "Arbok",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "isbase": true
+    },
+    {
+      "name": "Raichu",
+      "type": "Electric",
+      "isbase": false
+    },
+    {
+      "name": "Sandshrew",
+      "type": "Ground",
+      "isbase": true
+    },
+    {
+      "name": "Sandslash",
+      "type": "Ground",
+      "isbase": false
+    },
+    {
+      "name": "Nidoran♀",
+      "type": "Poison",
+      "isbase": true
+    },
+    {
+      "name": "Nidorina",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Nidoqueen",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Nidoran♂",
+      "type": "Poison",
+      "isbase": true
+    },
+    {
+      "name": "Nidorino",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Nidoking",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Clefairy",
+      "type": "Fairy",
+      "isbase": true
+    },
+    {
+      "name": "Clefable",
+      "type": "Fairy",
+      "isbase": false
+    },
+    {
+      "name": "Vulpix",
+      "type": "Fire",
+      "isbase": true
+    },
+    {
+      "name": "Ninetales",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Jigglypuff",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Wigglytuff",
+      "type": "Normal",
+      "isbase": false
+    },
+    {
+      "name": "Zubat",
+      "type": "Poison",
+      "isbase": true
+    },
+    {
+      "name": "Golbat",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Oddish",
+      "type": "Grass",
+      "isbase": true
+    },
+    {
+      "name": "Gloom",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Vileplume",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Paras",
+      "type": "Bug",
+      "isbase": true
+    },
+    {
+      "name": "Parasect",
+      "type": "Bug",
+      "isbase": false
+    },
+    {
+      "name": "Venonat",
+      "type": "Bug",
+      "isbase": true
+    },
+    {
+      "name": "Venomoth",
+      "type": "Bug",
+      "isbase": false
+    },
+    {
+      "name": "Diglett",
+      "type": "Ground",
+      "isbase": true
+    },
+    {
+      "name": "Dugtrio",
+      "type": "Ground",
+      "isbase": false
+    },
+    {
+      "name": "Meowth",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Persian",
+      "type": "Normal",
+      "isbase": false
+    },
+    {
+      "name": "Psyduck",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Golduck",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Mankey",
+      "type": "Fighting",
+      "isbase": true
+    },
+    {
+      "name": "Primeape",
+      "type": "Fighting",
+      "isbase": false
+    },
+    {
+      "name": "Growlithe",
+      "type": "Fire",
+      "isbase": true
+    },
+    {
+      "name": "Arcanine",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Poliwag",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Poliwhirl",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Poliwrath",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Abra",
+      "type": "Psychic",
+      "isbase": true
+    },
+    {
+      "name": "Kadabra",
+      "type": "Psychic",
+      "isbase": false
+    },
+    {
+      "name": "Alakazam",
+      "type": "Psychic",
+      "isbase": false
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "isbase": true
+    },
+    {
+      "name": "Machoke",
+      "type": "Fighting",
+      "isbase": false
+    },
+    {
+      "name": "Machamp",
+      "type": "Fighting",
+      "isbase": false
+    },
+    {
+      "name": "Bellsprout",
+      "type": "Grass",
+      "isbase": true
+    },
+    {
+      "name": "Weepinbell",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Victreebel",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Tentacool",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Tentacruel",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Geodude",
+      "type": "Rock",
+      "isbase": true
+    },
+    {
+      "name": "Graveler",
+      "type": "Rock",
+      "isbase": false
+    },
+    {
+      "name": "Golem",
+      "type": "Rock",
+      "isbase": false
+    },
+    {
+      "name": "Ponyta",
+      "type": "Fire",
+      "isbase": true
+    },
+    {
+      "name": "Rapidash",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Slowpoke",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Slowbro",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Magnemite",
+      "type": "Electric",
+      "isbase": true
+    },
+    {
+      "name": "Magneton",
+      "type": "Electric",
+      "isbase": false
+    },
+    {
+      "name": "Farfetch'd",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Doduo",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Dodrio",
+      "type": "Normal",
+      "isbase": false
+    },
+    {
+      "name": "Seel",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Dewgong",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Grimer",
+      "type": "Poison",
+      "isbase": true
+    },
+    {
+      "name": "Muk",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Shellder",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Cloyster",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Gastly",
+      "type": "Ghost",
+      "isbase": true
+    },
+    {
+      "name": "Haunter",
+      "type": "Ghost",
+      "isbase": false
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost",
+      "isbase": false
+    },
+    {
+      "name": "Onix",
+      "type": "Rock",
+      "isbase": true
+    },
+    {
+      "name": "Drowzee",
+      "type": "Psychic",
+      "isbase": true
+    },
+    {
+      "name": "Hypno",
+      "type": "Psychic",
+      "isbase": false
+    },
+    {
+      "name": "Krabby",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Kingler",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Voltorb",
+      "type": "Electric",
+      "isbase": true
+    },
+    {
+      "name": "Electrode",
+      "type": "Electric",
+      "isbase": false
+    },
+    {
+      "name": "Exeggcute",
+      "type": "Grass",
+      "isbase": true
+    },
+    {
+      "name": "Exeggutor",
+      "type": "Grass",
+      "isbase": false
+    },
+    {
+      "name": "Cubone",
+      "type": "Ground",
+      "isbase": true
+    },
+    {
+      "name": "Marowak",
+      "type": "Ground",
+      "isbase": false
+    },
+    {
+      "name": "Hitmonlee",
+      "type": "Fighting",
+      "isbase": true
+    },
+    {
+      "name": "Hitmonchan",
+      "type": "Fighting",
+      "isbase": true
+    },
+    {
+      "name": "Lickitung",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Koffing",
+      "type": "Poison",
+      "isbase": true
+    },
+    {
+      "name": "Weezing",
+      "type": "Poison",
+      "isbase": false
+    },
+    {
+      "name": "Rhyhorn",
+      "type": "Ground",
+      "isbase": true
+    },
+    {
+      "name": "Rhydon",
+      "type": "Ground",
+      "isbase": false
+    },
+    {
+      "name": "Chansey",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Tangela",
+      "type": "Grass",
+      "isbase": true
+    },
+    {
+      "name": "Kangaskhan",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Horsea",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Seadra",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Goldeen",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Seaking",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Staryu",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Starmie",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Mr. Mime",
+      "type": "Psychic",
+      "isbase": true
+    },
+    {
+      "name": "Scyther",
+      "type": "Bug",
+      "isbase": true
+    },
+    {
+      "name": "Jynx",
+      "type": "Psychic",
+      "isbase": true
+    },
+    {
+      "name": "Electabuzz",
+      "type": "Electric",
+      "isbase": true
+    },
+    {
+      "name": "Magmar",
+      "type": "Fire",
+      "isbase": true
+    },
+    {
+      "name": "Pinsir",
+      "type": "Bug",
+      "isbase": true
+    },
+    {
+      "name": "Tauros",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Magikarp",
+      "type": "Water",
+      "isbase": true
+    },
+    {
+      "name": "Gyarados",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Lapras",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Ditto",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Vaporeon",
+      "type": "Water",
+      "isbase": false
+    },
+    {
+      "name": "Jolteon",
+      "type": "Electric",
+      "isbase": false
+    },
+    {
+      "name": "Flareon",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Porygon",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Omanyte",
+      "type": "Rock",
+      "isbase": true
+    },
+    {
+      "name": "Omastar",
+      "type": "Rock",
+      "isbase": false
+    },
+    {
+      "name": "Kabuto",
+      "type": "Rock",
+      "isbase": true
+    },
+    {
+      "name": "Kabutops",
+      "type": "Rock",
+      "isbase": false
+    },
+    {
+      "name": "Aerodactyl",
+      "type": "Rock",
+      "isbase": true
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "isbase": true
+    },
+    {
+      "name": "Articuno",
+      "type": "Ice",
+      "isbase": false
+    },
+    {
+      "name": "Zapdos",
+      "type": "Electric",
+      "isbase": false
+    },
+    {
+      "name": "Moltres",
+      "type": "Fire",
+      "isbase": false
+    },
+    {
+      "name": "Dratini",
+      "type": "Dragon",
+      "isbase": true
+    },
+    {
+      "name": "Dragonair",
+      "type": "Dragon",
+      "isbase": false
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon",
+      "isbase": false
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "isbase": false
+    },
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "isbase": false
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "pokemon": "Bulbasaur",
+      "attack": 45,
+      "life": 40,
+      "rarity": "Common"
+    },
+    {
+      "id": 2,
+      "pokemon": "Ivysaur",
+      "attack": 55,
+      "life": 45,
+      "rarity": "Rare"
+    },
+    {
+      "id": 3,
+      "pokemon": "Venusaur",
+      "attack": 65,
+      "life": 55,
+      "rarity": "Especial"
+    },
+    {
+      "id": 4,
+      "pokemon": "Charmander",
+      "attack": 40,
+      "life": 30,
+      "rarity": "Common"
+    },
+    {
+      "id": 5,
+      "pokemon": "Charmeleon",
+      "attack": 60,
+      "life": 45,
+      "rarity": "Rare"
+    },
+    {
+      "id": 6,
+      "pokemon": "Charizard",
+      "attack": 90,
+      "life": 70,
+      "rarity": "Especial"
+    },
+    {
+      "id": 7,
+      "pokemon": "Squirtle",
+      "attack": 35,
+      "life": 40,
+      "rarity": "Common"
+    },
+    {
+      "id": 8,
+      "pokemon": "Wartortle",
+      "attack": 50,
+      "life": 55,
+      "rarity": "Rare"
+    },
+    {
+      "id": 9,
+      "pokemon": "Blastoise",
+      "attack": 70,
+      "life": 75,
+      "rarity": "Especial"
+    },
+    {
+      "id": 10,
+      "pokemon": "Caterpie",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 11,
+      "pokemon": "Metapod",
+      "attack": 25,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 12,
+      "pokemon": "Butterfree",
+      "attack": 35,
+      "life": 30,
+      "rarity": "Especial"
+    },
+    {
+      "id": 13,
+      "pokemon": "Weedle",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 14,
+      "pokemon": "Kakuna",
+      "attack": 25,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 15,
+      "pokemon": "Beedrill",
+      "attack": 35,
+      "life": 30,
+      "rarity": "Especial"
+    },
+    {
+      "id": 16,
+      "pokemon": "Pidgey",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 17,
+      "pokemon": "Pidgeotto",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 18,
+      "pokemon": "Pidgeot",
+      "attack": 40,
+      "life": 35,
+      "rarity": "Especial"
+    },
+    {
+      "id": 19,
+      "pokemon": "Rattata",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 20,
+      "pokemon": "Raticate",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 21,
+      "pokemon": "Spearow",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 22,
+      "pokemon": "Fearow",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 23,
+      "pokemon": "Ekans",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 24,
+      "pokemon": "Arbok",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Especial"
+    },
+    {
+      "id": 25,
+      "pokemon": "Pikachu",
+      "attack": 35,
+      "life": 30,
+      "rarity": "Common"
+    },
+    {
+      "id": 26,
+      "pokemon": "Raichu",
+      "attack": 45,
+      "life": 35,
+      "rarity": "Rare"
+    },
+    {
+      "id": 27,
+      "pokemon": "Sandshrew",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 28,
+      "pokemon": "Sandslash",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 29,
+      "pokemon": "Nidoran♀",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 30,
+      "pokemon": "Nidorina",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 31,
+      "pokemon": "Nidoqueen",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 32,
+      "pokemon": "Nidoran♂",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 33,
+      "pokemon": "Nidorino",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 34,
+      "pokemon": "Nidoking",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 35,
+      "pokemon": "Clefairy",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 36,
+      "pokemon": "Clefable",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Especial"
+    },
+    {
+      "id": 37,
+      "pokemon": "Vulpix",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 38,
+      "pokemon": "Ninetales",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 39,
+      "pokemon": "Jigglypuff",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 40,
+      "pokemon": "Wigglytuff",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 41,
+      "pokemon": "Zubat",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 42,
+      "pokemon": "Golbat",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 43,
+      "pokemon": "Oddish",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 44,
+      "pokemon": "Gloom",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 45,
+      "pokemon": "Vileplume",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Especial"
+    },
+    {
+      "id": 46,
+      "pokemon": "Paras",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 47,
+      "pokemon": "Parasect",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 48,
+      "pokemon": "Venonat",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 49,
+      "pokemon": "Venomoth",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 50,
+      "pokemon": "Diglett",
+      "attack": 10,
+      "life": 10,
+      "rarity": "Rare"
+    },
+    {
+      "id": 51,
+      "pokemon": "Dugtrio",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 52,
+      "pokemon": "Meowth",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 53,
+      "pokemon": "Persian",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 54,
+      "pokemon": "Psyduck",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 55,
+      "pokemon": "Golduck",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 56,
+      "pokemon": "Mankey",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 57,
+      "pokemon": "Primeape",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 58,
+      "pokemon": "Growlithe",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 59,
+      "pokemon": "Arcanine",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 60,
+      "pokemon": "Poliwag",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 61,
+      "pokemon": "Poliwhirl",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 62,
+      "pokemon": "Poliwrath",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 63,
+      "pokemon": "Abra",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 64,
+      "pokemon": "Kadabra",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 65,
+      "pokemon": "Alakazam",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 66,
+      "pokemon": "Machop",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 67,
+      "pokemon": "Machoke",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 68,
+      "pokemon": "Machamp",
+      "attack": 40,
+      "life": 30,
+      "rarity": "Rare"
+    },
+    {
+      "id": 69,
+      "pokemon": "Bellsprout",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 70,
+      "pokemon": "Weepinbell",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 71,
+      "pokemon": "Victreebel",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 72,
+      "pokemon": "Tentacool",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 73,
+      "pokemon": "Tentacruel",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 74,
+      "pokemon": "Geodude",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 75,
+      "pokemon": "Graveler",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 76,
+      "pokemon": "Golem",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 77,
+      "pokemon": "Ponyta",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 78,
+      "pokemon": "Rapidash",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Especial"
+    },
+    {
+      "id": 79,
+      "pokemon": "Slowpoke",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 80,
+      "pokemon": "Slowbro",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 81,
+      "pokemon": "Magnemite",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 82,
+      "pokemon": "Magneton",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 83,
+      "pokemon": "Farfetch'd",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 84,
+      "pokemon": "Doduo",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 85,
+      "pokemon": "Dodrio",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 86,
+      "pokemon": "Seel",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 87,
+      "pokemon": "Dewgong",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 88,
+      "pokemon": "Grimer",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 89,
+      "pokemon": "Muk",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 90,
+      "pokemon": "Shellder",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 91,
+      "pokemon": "Cloyster",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 92,
+      "pokemon": "Gastly",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 93,
+      "pokemon": "Haunter",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 94,
+      "pokemon": "Gengar",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 95,
+      "pokemon": "Onix",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 96,
+      "pokemon": "Drowzee",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 97,
+      "pokemon": "Hypno",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 98,
+      "pokemon": "Krabby",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 99,
+      "pokemon": "Kingler",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 100,
+      "pokemon": "Voltorb",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 101,
+      "pokemon": "Electrode",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 102,
+      "pokemon": "Exeggcute",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 103,
+      "pokemon": "Exeggutor",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 104,
+      "pokemon": "Cubone",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 105,
+      "pokemon": "Marowak",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 106,
+      "pokemon": "Hitmonlee",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 107,
+      "pokemon": "Hitmonchan",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 108,
+      "pokemon": "Lickitung",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 109,
+      "pokemon": "Koffing",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 110,
+      "pokemon": "Weezing",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 111,
+      "pokemon": "Rhyhorn",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 112,
+      "pokemon": "Rhydon",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 113,
+      "pokemon": "Chansey",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 114,
+      "pokemon": "Tangela",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 115,
+      "pokemon": "Kangaskhan",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 116,
+      "pokemon": "Horsea",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 117,
+      "pokemon": "Seadra",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 118,
+      "pokemon": "Goldeen",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 119,
+      "pokemon": "Seaking",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 120,
+      "pokemon": "Staryu",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 121,
+      "pokemon": "Starmie",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 122,
+      "pokemon": "Mr. Mime",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 123,
+      "pokemon": "Scyther",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 124,
+      "pokemon": "Jynx",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 125,
+      "pokemon": "Electabuzz",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 126,
+      "pokemon": "Magmar",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 127,
+      "pokemon": "Pinsir",
+      "attack": 20,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 128,
+      "pokemon": "Tauros",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 129,
+      "pokemon": "Magikarp",
+      "attack": 10,
+      "life": 10,
+      "rarity": "Especial"
+    },
+    {
+      "id": 130,
+      "pokemon": "Gyarados",
+      "attack": 35,
+      "life": 30,
+      "rarity": "Common"
+    },
+    {
+      "id": 131,
+      "pokemon": "Lapras",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Rare"
+    },
+    {
+      "id": 132,
+      "pokemon": "Ditto",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 133,
+      "pokemon": "Eevee",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Common"
+    },
+    {
+      "id": 134,
+      "pokemon": "Vaporeon",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Rare"
+    },
+    {
+      "id": 135,
+      "pokemon": "Jolteon",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 136,
+      "pokemon": "Flareon",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 137,
+      "pokemon": "Porygon",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 138,
+      "pokemon": "Omanyte",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Especial"
+    },
+    {
+      "id": 139,
+      "pokemon": "Omastar",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Common"
+    },
+    {
+      "id": 140,
+      "pokemon": "Kabuto",
+      "attack": 15,
+      "life": 15,
+      "rarity": "Rare"
+    },
+    {
+      "id": 141,
+      "pokemon": "Kabutops",
+      "attack": 25,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 142,
+      "pokemon": "Aerodactyl",
+      "attack": 35,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 143,
+      "pokemon": "Snorlax",
+      "attack": 40,
+      "life": 35,
+      "rarity": "Rare"
+    },
+    {
+      "id": 144,
+      "pokemon": "Articuno",
+      "attack": 50,
+      "life": 45,
+      "rarity": "Especial"
+    },
+    {
+      "id": 145,
+      "pokemon": "Zapdos",
+      "attack": 55,
+      "life": 50,
+      "rarity": "Common"
+    },
+    {
+      "id": 146,
+      "pokemon": "Moltres",
+      "attack": 60,
+      "life": 55,
+      "rarity": "Rare"
+    },
+    {
+      "id": 147,
+      "pokemon": "Dratini",
+      "attack": 20,
+      "life": 20,
+      "rarity": "Especial"
+    },
+    {
+      "id": 148,
+      "pokemon": "Dragonair",
+      "attack": 30,
+      "life": 25,
+      "rarity": "Common"
+    },
+    {
+      "id": 149,
+      "pokemon": "Dragonite",
+      "attack": 40,
+      "life": 35,
+      "rarity": "Rare"
+    },
+    {
+      "id": 150,
+      "pokemon": "Mewtwo",
+      "attack": 50,
+      "life": 45,
+      "rarity": "Especial"
+    },
+    {
+      "id": 151,
+      "pokemon": "Mew",
+      "attack": 60,
+      "life": 55,
+      "rarity": "Common"
+    },
+    {
+      "id": 152,
+      "pokemon": "Articuno",
+      "attack": 100,
+      "life": 80,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 153,
+      "pokemon": "Zapdos",
+      "attack": 105,
+      "life": 85,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 154,
+      "pokemon": "Moltres",
+      "attack": 110,
+      "life": 80,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 155,
+      "pokemon": "Dragonite",
+      "attack": 120,
+      "life": 90,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 156,
+      "pokemon": "Gengar",
+      "attack": 115,
+      "life": 75,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 157,
+      "pokemon": "Alakazam",
+      "attack": 110,
+      "life": 70,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 158,
+      "pokemon": "Machamp",
+      "attack": 105,
+      "life": 80,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 159,
+      "pokemon": "Gyarados",
+      "attack": 125,
+      "life": 85,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 160,
+      "pokemon": "Lapras",
+      "attack": 100,
+      "life": 95,
+      "rarity": "Legendary"
+    },
+    {
+      "id": 161,
+      "pokemon": "Mew",
+      "attack": 130,
+      "life": 90,
+      "rarity": "Legendary"
+    }
+  ]
+}
